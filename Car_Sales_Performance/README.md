@@ -1,4 +1,4 @@
-# Car_Sales_Performance Analysis Dashboard
+# Car Sales Performance Analysis Dashboard
 
 ## Project Overview
 
