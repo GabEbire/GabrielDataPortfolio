@@ -21,7 +21,7 @@ Car dealerships and manufacturers need a clear understanding of sales performanc
 
 ## Dataset
 
-The dataset contains car sales, including:
+The dataset contains car sales data, including:
 
 - Car id
 - Date
