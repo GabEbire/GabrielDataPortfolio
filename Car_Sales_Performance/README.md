@@ -49,8 +49,7 @@ The following cleaning steps were performed:
 - Removed duplicate records
 - Corrected missing values
 - Standardized column names
-- Converted experience level placeholder to right format i.e EN to Entry-level, MI to Mid-level, SE to Senior-level and EX to Executive-level 
-- Converted employment type placeholder to right format i.e PT to Part-time, FT to Full-time, CT to Contract and FL to Freelance 
+- Converted date columns to the correct format
 - Verified data consistency
 
 ---
