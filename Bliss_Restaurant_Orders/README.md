@@ -40,11 +40,9 @@ The dataset contains car sales data, including:
 
 The following cleaning steps were performed:
 
-- Removed duplicate records
-- Corrected missing values
-- Standardized column names
-- Converted date columns to the correct format
+- Ensured no duplicate records
 - Verified data consistency
+- Verified the dataset was clean and ready for analysis.
 
 ---
 
